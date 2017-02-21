@@ -24,9 +24,9 @@ runTests(varargin, fun_handles);
 function honesty()
 % Type your full name and uni (both in string) to state your agreement 
 % to the Code of Academic Integrity.
-signAcademicHonestyPolicy('Zijun Qin', 'zqin34');
+signAcademicHonestyPolicy('Peter Parker', 'pp1917');
 
-%%
+%
 function walkthrough1()
 % Open hw1_walkthrough1.m and go through a short MATLAB tutorial
 % Feel free to try the commands or variations of them at your
